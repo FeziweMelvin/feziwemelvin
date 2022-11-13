@@ -1,4 +1,8 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+# Welcome :raised_hands:
+
+
+
+![](https://github.com/FeziweMelvin/feziwemelvin/blob/main/minecraft-dancing.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
