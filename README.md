@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://github.com/FeziweMelvin/feziwemelvin/blob/main/minecraft-dancing.gif" alt="Dancing Minecraft">
 </p>
+
+## 👨‍💻 About Me
+<p align="center">
+Cloud Engineer at a FAANG company specializing in ML/AI solutions. Passionate about leveraging cloud technologies and machine learning to build innovative solutions. Former Software Engineer with a strong background in Computer Science and Mathematical Statistics.
+</p>
+
 <p align="center">
 <a href=# ><img src="contributions.svg"></a></p>
 
