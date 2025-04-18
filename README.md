@@ -4,7 +4,7 @@
 
 ![](https://github.com/FeziweMelvin/feziwemelvin/blob/main/minecraft-dancing.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=# align="center"><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
