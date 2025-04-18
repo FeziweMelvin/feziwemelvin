@@ -1,8 +1,10 @@
 # Welcome :raised_hands:
 
-![](https://github.com/FeziweMelvin/feziwemelvin/blob/main/minecraft-dancing.gif)
-
-<a href=# align="center"><img src="contributions.svg"></a>
+<p align="center">
+  <img src="https://github.com/FeziweMelvin/feziwemelvin/blob/main/minecraft-dancing.gif" alt="Dancing Minecraft">
+</p>
+<p align="center">
+<a href=# ><img src="contributions.svg"></a></p>
 
 <p align="center"> 
   Visitor count<br>
@@ -23,11 +25,3 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
-
-### 💻 Skills Breakdown
-
-```text
-Frontend Development    ███████████░░   75%
-Backend Development    ████████████░░   80%
-Cloud Services         ██████████░░░░   65%
-Database Management    ████████░░░░░░   55%
