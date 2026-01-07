@@ -9,10 +9,9 @@
 
 ## 👨‍💻 About Me
 <p>
-Cloud Engineer at a <a href="https://www.investopedia.com/terms/f/faang-stocks.asp">FAANG</a> company specializing in ML/AI solutions. Co-founder of <a href="https://seclouai.com">Seclouai</a>, delivering enterprise-grade cybersecurity and AI solutions. Passionate about leveraging cloud technologies and machine learning to build innovative solutions. Former Software Engineer from one of the five biggest management consulting firms, with a strong background in Computer Science and Mathematical Statistics. \br 
+Cloud Engineer at a <a href="https://www.investopedia.com/terms/f/faang-stocks.asp">FAANG</a> company specializing in ML/AI solutions. Co-founder of <a href="https://seclouai.com">Seclouai</a>, delivering enterprise-grade cybersecurity and AI solutions. Passionate about leveraging cloud technologies and machine learning to build innovative solutions. Former Software Engineer from one of the five biggest management consulting firms, with a strong background in Computer Science and Mathematical Statistics.
 
-  Last but not least, PhD Computer Science Specializing in AI/ML 🤫
-
+Last but not least, PhD Computer Science Specializing in AI/ML 🤫
 
 </p>
 
